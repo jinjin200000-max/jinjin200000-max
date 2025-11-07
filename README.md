@@ -69,27 +69,15 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+<h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jinjin200000-max&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=maurodesouz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=jinjin200000-max&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jinjin200000-max/jinjin200000-max/output/snake.svg" alt="Snake animation" />
+</div>
