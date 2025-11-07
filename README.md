@@ -1,8 +1,24 @@
-<img align="left" height="246" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2tkOHBwOGw3cnFnencxZmV3bWJqcjFxeHg3a3h2bjIzZ25tZzB2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rJsMvyk7AHHiW9qKLM/giphy.gif"  />
+<div align="center">
+  <img height="246" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2tkOHBwOGw3cnFnencxZmV3bWJqcjFxeHg3a3h2bjIzZ25tZzB2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rJsMvyk7AHHiW9qKLM/giphy.gif" />
+</div>
+<br clear="both">
+
+
+<br clear="both">
+
+<h1 align="center">Yejin Jung's Place 👋</h1>
 
 ###
 
-<div align="center">
+<div align="right">
+  <a href="https://open.spotify.com/user/31ap3zxjvnohta2643hhfurw73iq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ap3zxjvnohta2643hhfurw73iq&count=5&unique=true" alt="Spotify recently played" />
+  </a>
+</div>
+
+###
+
+<div align="right">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <a href="https://www.instagram.com/jyeongzzz/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
@@ -11,27 +27,15 @@
 
 ###
 
-<div align="center">
+<div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&right_color=indianred"  />
 </div>
 
 ###
 
-<h1 align="center">Yejin Jung's Place 👋</h1>
-
-###
-
 <br clear="both">
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31ap3zxjvnohta2643hhfurw73iq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ap3zxjvnohta2643hhfurw73iq&count=5&unique=true" alt="Spotify recently played" />
-  </a>
-</div>
+<h2 align="center">👩‍💻  About Me</h2>
 
 ###
 
