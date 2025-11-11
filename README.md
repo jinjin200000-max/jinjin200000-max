@@ -23,7 +23,16 @@
   <a href="https://www.instagram.com/jyeongzzz/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
+  
+  <a href="https://www.notion.so/3-23b4c229dfa88178aff6d60b816e6af3" target="_blank">
+    <img src="https://img.shields.io/badge/Notion%20Study-000000?style=for-the-badge&logo=notion&logoColor=white" height="25" alt="notion study" />
+  </a>
+
+  <a href="https://www.notion.so/28e4c229dfa8807d8eb0e7ec6e2e0728" target="_blank">
+    <img src="https://img.shields.io/badge/Notion%20Projects-000000?style=for-the-badge&logo=notion&logoColor=white" height="25" alt="notion projects" />
+  </a>
 </div>
+
 
 ###
 
